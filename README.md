@@ -2,7 +2,7 @@
 
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)]()
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://shielded-fjord-55430.herokuapp.com/)
 
 
   ## Table of contents
@@ -17,7 +17,7 @@
 
 Refactoring the e-commerce platform that it uses Redux. 
 
-  [Heroku Deployed]()
+  [Heroku Deployed](https://shielded-fjord-55430.herokuapp.com/)
   
 #### Mock-Up
 
